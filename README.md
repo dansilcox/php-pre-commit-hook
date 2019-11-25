@@ -1,6 +1,6 @@
 # PHP pre-commit hook
 
-A nice pre-commit hook for PHP developers.
+A nice pre-commit hook for PHP developers, based on the actual sample that Git places in the .git/hooks directory by default...
 
 It:
 1) Validates the change set against an "allownonasci" configuration flag that decides whether non-ASCII characters are allowed in commit names or not
